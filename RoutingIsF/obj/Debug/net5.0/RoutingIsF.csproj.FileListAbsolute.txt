@@ -325,7 +325,6 @@ C:\code\accelerator\vs\RoutingIsF\RoutingIsF\bin\Debug\net5.0\ru\Microsoft.CodeA
 C:\code\accelerator\vs\RoutingIsF\RoutingIsF\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
 C:\code\accelerator\vs\RoutingIsF\RoutingIsF\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
 C:\code\accelerator\vs\RoutingIsF\RoutingIsF\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\code\accelerator\vs\RoutingIsF\RoutingIsF\obj\Debug\net5.0\RoutingIsF.csprojAssemblyReference.cache
 C:\code\accelerator\vs\RoutingIsF\RoutingIsF\obj\Debug\net5.0\RoutingIsF.GeneratedMSBuildEditorConfig.editorconfig
 C:\code\accelerator\vs\RoutingIsF\RoutingIsF\obj\Debug\net5.0\RoutingIsF.AssemblyInfoInputs.cache
 C:\code\accelerator\vs\RoutingIsF\RoutingIsF\obj\Debug\net5.0\RoutingIsF.AssemblyInfo.cs
@@ -365,3 +364,4 @@ C:\code\accelerator\vs\RoutingIsF\RoutingIsF\obj\Debug\net5.0\Razor\Views\Home\M
 C:\code\accelerator\vs\RoutingIsF\RoutingIsF\obj\Debug\net5.0\Razor\Views\Home\Environments.cshtml.g.cs
 C:\code\accelerator\vs\RoutingIsF\RoutingIsF\obj\Debug\net5.0\Razor\Views\Home\PDP.cshtml.g.cs
 C:\code\accelerator\vs\RoutingIsF\RoutingIsF\obj\Debug\net5.0\Razor\Views\Home\Uberall.cshtml.g.cs
+C:\code\accelerator\vs\RoutingIsF\RoutingIsF\obj\Debug\net5.0\RoutingIsF.csproj.AssemblyReference.cache

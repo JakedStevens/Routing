@@ -48,6 +48,16 @@ namespace RoutingIsF.Controllers
 			ViewBag.psc = psc;
 			ViewBag.ref_ = ref_;
 
+			ViewBag.path = Request.Path.ToString();
+			ViewBag.routevalues = Request.RouteValues;
+			ViewBag.query = Request.Query;
+
+			var path = Request.Path.ToString();
+			var queries = Request.QueryString;
+
+			var concat = $"{path}{queries}";
+			ViewBag.concat = concat;
+
 			return View("HighKey");
 		}
 
